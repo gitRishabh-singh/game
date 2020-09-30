@@ -1,4 +1,8 @@
 # game
-Tic-Tac-Toe game with JS
+Tic-Tac-Toe game, JavaScript
 
-Codes Output: https://gitrishabh-singh.github.io/game/
+#found bug?
+If found any bug, feel free to fix it! 
+
+#Live at
+https://gitrishabh-singh.github.io/game/
