@@ -8,6 +8,17 @@
 </head>
 
 <body>
+<script>
+var click = new Audio("http://soundbible.com/grab.php?id=1705&type=mp3");
+window.addEventListener('click',(ev)=>{
+try{
+    click.play()
+}catch(err){}
+
+})
+</script>
+
+
     <style>
         *,
         *::after,
